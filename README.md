@@ -37,4 +37,4 @@
 ---
 
 <p align= "center">Sometimes, It's about the hustle, sometimes, it's about the bustle.</p>
-<p align= "center">It's all about consistency and balance</p>
+<p align= "center">To me, it's all about consistency and balance</p>
