@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align= "center">Khaled Gamal<sub>Your fav Dev</sub></h1>  
 
-<!--
-**Nero-the27th/Nero-the27th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align= "center">Front Developer</p>
 
-Here are some ideas to get you started:
+<p align= "center">Building Flexible and stylish applications || Currently leaning into DevOps & Infrastructure</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+## 📌 About Me
+
+- A second-year computer science student
+- An enthusiastic competitive programmer
+- Frontend Developer on the breaches of becoming Fullstack
+- Open for work
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C++
+- Html5
+- Javascript
+- Python
+
+### Tools & Technologies
+- Git & GitHub
+- Linux
+- VS Code
+- PostgreSQL
+
+---
+
+## 📫 Contact
+- Email: [KhalednassarGOHN@gmail.com](mailto:khalednassarGOHN@gmail.com)
+- LinkedIn: [Khaled Nassar](https://www.linkedin.com/in/khaled-nassar-91b460277/)
+---
+
+<p align= "center">Sometimes, It's about the hustle, sometimes, it's about the bustle.</p>
+<p align= "center">It's all about consistency and balance</p>
