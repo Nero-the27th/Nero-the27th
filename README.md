@@ -2,7 +2,7 @@
 
 <p align= "center">Front Developer</p>
 
-<p align= "center">Building Flexible and stylish applications || Currently leaning into DevOps & Infrastructure</p>
+<p align= "center">Building Flexible and stylish applications || Currently leaning into BackEnd & Infrastructure</p>
 
 ---  
 
